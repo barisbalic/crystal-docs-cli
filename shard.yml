@@ -1,0 +1,11 @@
+name: crystal-docs
+version: 0.1.0
+
+authors:
+  - Baris Balic <leafybasil@gmail.com>
+
+license: MIT
+
+dependencies:
+  commander:
+    github:  mrrooijen/commander
