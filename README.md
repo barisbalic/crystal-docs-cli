@@ -14,7 +14,8 @@ Requires [crystal-lang](https://crystal-lang.org) 0.18.7+
 ```
 git clone git@github.com:barisbalic/crystal-docs-cli.git
 cd crystal-docs-cli
-crystal build --release src/crystal-docs
+shards install
+crystal build --release src/crystal-docs.cr
 ```
 
 ## Usage
